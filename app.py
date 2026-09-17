@@ -24,7 +24,7 @@ def plot_top_words(top_words, title="Top palabras"):
 def main():
     while True:
         clear_console()
-        print("=== ANALIZADOR DE TEXTO (CLI) ===")
+        print("=== ANALIZADOR DE TEXTO (CLI)(English) ===")
         print("1) Ingresar texto manual")
         print("2) Analizar archivo (.txt)")
         print("3) Salir")
