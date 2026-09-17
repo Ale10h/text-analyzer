@@ -1,0 +1,72 @@
+{
+  "characters": 224,
+  "words": 37,
+  "sentences": 2,
+  "top_words": [
+    [
+      "the",
+      4
+    ],
+    [
+      "and",
+      3
+    ],
+    [
+      "to",
+      2
+    ],
+    [
+      "christmas",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "we",
+      1
+    ],
+    [
+      "invite",
+      1
+    ],
+    [
+      "all",
+      1
+    ],
+    [
+      "departments",
+      1
+    ],
+    [
+      "participate",
+      1
+    ],
+    [
+      "in",
+      1
+    ],
+    [
+      "our",
+      1
+    ],
+    [
+      "decorating",
+      1
+    ],
+    [
+      "contest",
+      1
+    ],
+    [
+      "its",
+      1
+    ]
+  ],
+  "sentiment": {
+    "polarity": 0.8125,
+    "subjectivity": 1.0,
+    "label": "Positivo"
+  }
+}
